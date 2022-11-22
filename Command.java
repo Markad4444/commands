@@ -9,6 +9,7 @@ int c= a+b;
 int d=5;
 System.out.println(c);
 System.out.println("=======");
+int e=a-b;
 	}
 
 }
